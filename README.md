@@ -15,3 +15,5 @@ Disclaimers -
 
 * These documents reflect my own understanding and paraphrasing of live sessions. Errors, oversimplifications or missed topics are possible.
 * Not a substitute for actually attending classes, watching the recordings or reading source papers. Use these notes as a refresher
+
+Follow me on LinkedIn here: www.linkedin.com/in/mohamedghayaas
